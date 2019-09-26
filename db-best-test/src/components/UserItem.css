@@ -1,0 +1,26 @@
+.img-thumb {
+  max-height: 150px;
+  max-width: 80px;
+  width: auto;
+  height: auto;
+  padding: 10px 100px 10px 250px;
+
+}
+
+.selected {
+  background-color: #FFE4B5;
+}
+
+.name {
+  text-align: center;
+}
+
+button {
+  width: 80px;
+  height: 30px;
+  border-radius: 5px;
+  border-color: #4682B4;
+  margin-left: 50px;
+  background-color: #AFEEEE;
+  color: #4682B4;
+}
